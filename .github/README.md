@@ -1,4 +1,4 @@
-# Standard Date and Time Library In C Language
+# Standard Date and Time Library in C Language
 
 **Standard Date and Time Library** in _C_ makes use of standard library  
 variables, macros, and functions to manipulate time in differnt formats just as  
